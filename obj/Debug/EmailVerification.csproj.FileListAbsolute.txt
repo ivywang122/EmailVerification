@@ -1,0 +1,10 @@
+C:\projects\csharp-projects\PracticeProjects\EmailVerification\bin\Debug\EmailVerification.exe.config
+C:\projects\csharp-projects\PracticeProjects\EmailVerification\bin\Debug\EmailVerification.exe
+C:\projects\csharp-projects\PracticeProjects\EmailVerification\bin\Debug\EmailVerification.pdb
+C:\projects\csharp-projects\PracticeProjects\EmailVerification\obj\Debug\EmailVerification.csprojResolveAssemblyReference.cache
+C:\projects\csharp-projects\PracticeProjects\EmailVerification\obj\Debug\EmailVerification.MainWindow.resources
+C:\projects\csharp-projects\PracticeProjects\EmailVerification\obj\Debug\EmailVerification.Properties.Resources.resources
+C:\projects\csharp-projects\PracticeProjects\EmailVerification\obj\Debug\EmailVerification.csproj.GenerateResource.cache
+C:\projects\csharp-projects\PracticeProjects\EmailVerification\obj\Debug\EmailVerification.csproj.CoreCompileInputs.cache
+C:\projects\csharp-projects\PracticeProjects\EmailVerification\obj\Debug\EmailVerification.exe
+C:\projects\csharp-projects\PracticeProjects\EmailVerification\obj\Debug\EmailVerification.pdb
